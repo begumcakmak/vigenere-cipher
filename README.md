@@ -47,6 +47,6 @@ Decrypted text: prince of darkness
 ## Note
 Case sensitivity and additional alphabets can be added with further development.
 
-<sub>kendime not: belki çok basit bir projelerle başlıyorum ama lisans hayatım boyunca yaptıklarımı burda biriktirmek istiyorum. vigenere şifrelemesini de kullanıcı girdili hale getirdim. eksik yerleri var ama şimdilik yeter. </sub>
+<sub>kendime not: belki çok basit projelerle başlıyorum ama lisans hayatım boyunca yaptıklarımı burda biriktirmek istiyorum. vigenere şifrelemesini de kullanıcı girdili hale getirdim. eksik yerleri var ama şimdilik yeter. </sub>
 
 
